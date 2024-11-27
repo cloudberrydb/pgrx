@@ -31,6 +31,7 @@ pg15 = []
 pg16 = []
 pg17 = []
 cshim = []
+cbdb = []
 
 [package.metadata.docs.rs]
 features = ["pg14", "cshim"]
